@@ -25,4 +25,4 @@ jobs:
               uses: actions/checkout@v4
             # This step references the directory that contains the action.
             - name: play my docker
-              uses: docker://momnpa333@ajangback:latest
+              uses: docker://momnpa333/ajangback:latest
